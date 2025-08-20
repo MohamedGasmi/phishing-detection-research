@@ -44,7 +44,7 @@ These results confirm that combining multiple feature categories significantly i
 ---
 
 ## 🗂️ Repository Structure
-- `docs/` → Contains the published paper (PDF).   
+- `paper.pdf` → Contains the published paper (PDF).   
 
 > ⚠️ Note: Due to institutional and copyright restrictions, the source code is not shared here.
  
